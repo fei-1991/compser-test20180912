@@ -7,8 +7,8 @@
             "email": "wurongfei@Ijunhai.com"
         }
     ],
-	"license": "MIT",
-    "minimum-stability": "stable",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {},
 	"autoload": {
         "psr-4": {
