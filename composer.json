@@ -1,0 +1,17 @@
+{
+    "name": "composer/test",
+    "description": "test composer",
+    "authors": [
+        {
+            "name": "wurongfei",
+            "email": "wurongfei@Ijunhai.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "TestServer\\Auth\\": "src/"
+        }
+    }
+}
